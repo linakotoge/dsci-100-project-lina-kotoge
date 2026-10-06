@@ -6,3 +6,5 @@ This repository is originally adapted from Grace Tompkins' repo [DSCI-100-Projec
 This is changing from GitHub in the cloud.
 
 Today is October 6 2026.
+
+Author: Lina Kotoge
